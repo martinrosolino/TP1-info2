@@ -1,0 +1,6 @@
+Primer hora  10
+Primer minuto 00
+Primer duración 60
+Segunda hora 13
+Segundo minuto 00
+Segunda duración 60
